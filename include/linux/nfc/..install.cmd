@@ -1,0 +1,1 @@
+cmd_usr/include/linux/nfc/.install := /bin/bash /home/temp/k/kernel/xiaomi/violet/scripts/headers_install.sh ./usr/include/linux/nfc /home/temp/k/kernel/xiaomi/violet/include/uapi/linux/nfc nfcinfo.h ntaginfo.h; /bin/bash /home/temp/k/kernel/xiaomi/violet/scripts/headers_install.sh ./usr/include/linux/nfc ./include/generated/uapi/linux/nfc ; touch usr/include/linux/nfc/.install

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/iio/.install := /bin/bash /home/temp/k/kernel/xiaomi/violet/scripts/headers_install.sh ./usr/include/linux/iio /home/temp/k/kernel/xiaomi/violet/include/uapi/linux/iio events.h types.h; /bin/bash /home/temp/k/kernel/xiaomi/violet/scripts/headers_install.sh ./usr/include/linux/iio ./include/generated/uapi/linux/iio ; touch usr/include/linux/iio/.install

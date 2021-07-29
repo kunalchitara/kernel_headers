@@ -1,0 +1,1 @@
+cmd_usr/include/linux/hdlc/.install := /bin/bash /home/temp/k/kernel/xiaomi/violet/scripts/headers_install.sh ./usr/include/linux/hdlc /home/temp/k/kernel/xiaomi/violet/include/uapi/linux/hdlc ioctl.h; /bin/bash /home/temp/k/kernel/xiaomi/violet/scripts/headers_install.sh ./usr/include/linux/hdlc ./include/generated/uapi/linux/hdlc ; touch usr/include/linux/hdlc/.install

@@ -1,0 +1,1 @@
+cmd_usr/include/linux/raid/.install := /bin/bash /home/temp/k/kernel/xiaomi/violet/scripts/headers_install.sh ./usr/include/linux/raid /home/temp/k/kernel/xiaomi/violet/include/uapi/linux/raid md_p.h md_u.h; /bin/bash /home/temp/k/kernel/xiaomi/violet/scripts/headers_install.sh ./usr/include/linux/raid ./include/generated/uapi/linux/raid ; touch usr/include/linux/raid/.install

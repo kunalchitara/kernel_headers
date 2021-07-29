@@ -1,0 +1,1 @@
+cmd_usr/include/mtd/.install := /bin/bash /home/temp/k/kernel/xiaomi/violet/scripts/headers_install.sh ./usr/include/mtd /home/temp/k/kernel/xiaomi/violet/include/uapi/mtd inftl-user.h mtd-abi.h mtd-user.h nftl-user.h ubi-user.h; /bin/bash /home/temp/k/kernel/xiaomi/violet/scripts/headers_install.sh ./usr/include/mtd ./include/generated/uapi/mtd ; touch usr/include/mtd/.install

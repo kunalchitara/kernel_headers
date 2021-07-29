@@ -1,0 +1,1 @@
+cmd_usr/include/misc/.install := /bin/bash /home/temp/k/kernel/xiaomi/violet/scripts/headers_install.sh ./usr/include/misc /home/temp/k/kernel/xiaomi/violet/include/uapi/misc cxl.h; /bin/bash /home/temp/k/kernel/xiaomi/violet/scripts/headers_install.sh ./usr/include/misc ./include/generated/uapi/misc ; touch usr/include/misc/.install

@@ -1,0 +1,1 @@
+cmd_usr//audio/ipc/.install := /bin/bash /home/temp/k/kernel/xiaomi/violet/scripts/headers_install.sh ./usr//audio/ipc /home/temp/k/kernel/xiaomi/violet/techpack/audio/ipc ; /bin/bash /home/temp/k/kernel/xiaomi/violet/scripts/headers_install.sh ./usr//audio/ipc ./techpack/audio/ipc ; touch usr//audio/ipc/.install

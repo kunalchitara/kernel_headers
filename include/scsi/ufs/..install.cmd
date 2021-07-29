@@ -1,0 +1,1 @@
+cmd_usr/include/scsi/ufs/.install := /bin/bash /home/temp/k/kernel/xiaomi/violet/scripts/headers_install.sh ./usr/include/scsi/ufs /home/temp/k/kernel/xiaomi/violet/include/uapi/scsi/ufs ioctl.h ufs.h; /bin/bash /home/temp/k/kernel/xiaomi/violet/scripts/headers_install.sh ./usr/include/scsi/ufs ./include/generated/uapi/scsi/ufs ; touch usr/include/scsi/ufs/.install

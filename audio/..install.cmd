@@ -1,0 +1,1 @@
+cmd_usr//audio/.install := /bin/bash /home/temp/k/kernel/xiaomi/violet/scripts/headers_install.sh ./usr//audio /home/temp/k/kernel/xiaomi/violet/techpack/audio ; /bin/bash /home/temp/k/kernel/xiaomi/violet/scripts/headers_install.sh ./usr//audio ./techpack/audio ; touch usr//audio/.install
